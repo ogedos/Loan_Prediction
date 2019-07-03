@@ -1,6 +1,6 @@
 ## Loan_Prediction
-In this project, i will be working on a loan prediction dataset,indicating whether or not a person will be approved loan.
-I will create a logistic regression model that will predict whether or not a person will be approved for loan.
+In this project, i worked on a loan prediction dataset,indicating whether or not a person will be approved loan.
+I created a logistic regression model that will predict whether or not a person will be approved for loan.
 
 This data set contains the following features: 
 * LOAN ID, GENDER- MALE OR FEMALE
