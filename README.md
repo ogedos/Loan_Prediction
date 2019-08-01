@@ -1,4 +1,4 @@
-## Loan_Prediction
+## Loan_Prediction (Work in Progress)
 In this project, i worked on a loan prediction dataset,indicating whether or not a person will be approved loan.
 I created a logistic regression model that will predict whether or not a person will be approved for loan.
 
